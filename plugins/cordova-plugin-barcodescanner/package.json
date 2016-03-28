@@ -1,0 +1,23 @@
+{
+  "name": "cordova-plugin-barcode-scanner2",
+  "version": "0.7.9",
+  "description": "Cordova Barcode Scanner Plugin",
+  "cordova": {
+    "id": "cordova-plugin-barcodescanner",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michael79bxl/cordova-barcode-scanner-plugin2.git"
+  },
+  "keywords": [
+    "cordova",
+    "barcodescanner",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Martin Reinhardt",
+  "license": "MIT"
+}
